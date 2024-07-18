@@ -108,7 +108,7 @@ $sysmonConfOut = "$env:temp\sysmon-config.xml"
 If ($config) {
     $sysmonConf = $config
 } Else {
-    $sysmonConf = "https://raw.githubusercontent.com/bobby-tablez/FT-Sysmon-Config/master/ft-sysmonconfig-export.xml"
+    $sysmonConf = "https://raw.githubusercontent.com/ijlalhaider313/FT-Sysmon-Config/master/ft-sysmonconfig-export.xml"
 }
 
 # Grab the new driver name, check that the length does not exceed 8 characters
