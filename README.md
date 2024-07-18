@@ -1,5 +1,5 @@
 # Enable All The Logs!
-![enable_all_the_logs_banner](https://raw.githubusercontent.com/bobby-tablez/Enable-All-The-Logs/main/enable_all_the_logs.png?raw=true) 
+![enable_all_the_logs_banner](https://raw.githubusercontent.com/ijlalhaider313/Enable-All-The-Logs/main/enable_all_the_logs.png?raw=true) 
 This script automates enhancing logging telemetry on Windows hosts. It is designed specifically with threat detection in mind where logging is critical for detections in SIEM environments or in a lab setting for emulation, validation or for malware analysis. This can be used in production, however you may want to fork or clone the script to tune the GPO edits as needed as it will increase log volume significantly. 
 
 Tested on Windows Server 2019/2022 and Windows 10/11
