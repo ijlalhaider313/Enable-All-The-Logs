@@ -32,7 +32,7 @@ The ` -name` argument renames the Sysmon binary prior to installation. This effe
 ```powershell
 irm https://raw.githubusercontent.com/bobby-tablez/Enable-All-The-Logs/main/enable_logs.ps1|iex
 ```
-![enable_all_the_logs_run](https://raw.githubusercontent.com/bobby-tablez/Enable-All-The-Logs/main/enable_all_the_logs_run_2.png?raw=true) 
+![enable_all_the_logs_run](https://raw.githubusercontent.com/ijlalhaider313/Enable-All-The-Logs/main/enable_all_the_logs_run_2.png?raw=true) 
 
 ### Script to check for Sysmon install. Deploy it if not present:
 ```powershell
